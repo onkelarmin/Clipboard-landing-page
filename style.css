@@ -391,6 +391,7 @@ body > * {
   display: grid;
   gap: 1.25rem;
   padding: 0;
+  margin: 0;
 }
 
 .footer__link {

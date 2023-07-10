@@ -416,6 +416,7 @@ body > * {
 @media (width>=45em) {
   .footer {
     margin-top: 9.375rem;
+    padding-block: 2.5rem;
   }
 
   .footer__inner {
@@ -446,5 +447,3 @@ body > * {
     margin-left: clamp(0rem, calc(-8.54rem + 15.54vw), 5.44rem);
   }
 }
-
-/* TODO: line-heights */

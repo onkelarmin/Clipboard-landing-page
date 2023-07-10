@@ -300,7 +300,7 @@ body > * {
 /* Workflow section */
 
 .workflow {
-  margin-top: clamp(8.13rem, calc(7.55rem + 2.86vw), 10.13rem);
+  margin-top: clamp(1.63rem, calc(7.55rem + 2.86vw), 3.63rem);
 }
 
 .options {
